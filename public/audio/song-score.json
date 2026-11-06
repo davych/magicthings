@@ -1,0 +1,2601 @@
+{
+  "title": "下班还有几厘米",
+  "bpm": 112,
+  "meter": "4/4",
+  "bars": 56,
+  "durationSeconds": 120.0,
+  "key": "A minor",
+  "sections": [
+    {
+      "id": "intro",
+      "startBar": 0,
+      "endBar": 4
+    },
+    {
+      "id": "verse",
+      "startBar": 4,
+      "endBar": 12
+    },
+    {
+      "id": "pre",
+      "startBar": 12,
+      "endBar": 16
+    },
+    {
+      "id": "chorus",
+      "startBar": 16,
+      "endBar": 24
+    },
+    {
+      "id": "verse2",
+      "startBar": 24,
+      "endBar": 32
+    },
+    {
+      "id": "bridge",
+      "startBar": 32,
+      "endBar": 40
+    },
+    {
+      "id": "finalChorus",
+      "startBar": 40,
+      "endBar": 48
+    },
+    {
+      "id": "ending",
+      "startBar": 48,
+      "endBar": 52
+    },
+    {
+      "id": "outro",
+      "startBar": 52,
+      "endBar": 56
+    }
+  ],
+  "lines": [
+    {
+      "text": "闹钟先打了卡",
+      "bar": 4,
+      "section": "verse",
+      "startMs": 8571,
+      "endMs": 10714,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "我还没醒过来",
+      "bar": 5,
+      "section": "verse",
+      "startMs": 10714,
+      "endMs": 12857,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "领带拴住哈欠",
+      "bar": 6,
+      "section": "verse",
+      "startMs": 12857,
+      "endMs": 15000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "塞进第一班车",
+      "bar": 7,
+      "section": "verse",
+      "startMs": 15000,
+      "endMs": 17143,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "格子装着早晨",
+      "bar": 8,
+      "section": "verse",
+      "startMs": 17143,
+      "endMs": 19286,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "屏幕养着云彩",
+      "bar": 9,
+      "section": "verse",
+      "startMs": 19286,
+      "endMs": 21429,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "刚把一句写完",
+      "bar": 10,
+      "section": "verse",
+      "startMs": 21429,
+      "endMs": 23571,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "又来三句重来",
+      "bar": 11,
+      "section": "verse",
+      "startMs": 23571,
+      "endMs": 25714,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "钟往前走一格",
+      "bar": 12,
+      "section": "pre",
+      "startMs": 25714,
+      "endMs": 27857,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "门往后退一排",
+      "bar": 13,
+      "section": "pre",
+      "startMs": 27857,
+      "endMs": 30000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "工牌晃来又晃去",
+      "bar": 14,
+      "section": "pre",
+      "startMs": 30000,
+      "endMs": 32143,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "谁把路接起来",
+      "bar": 15,
+      "section": "pre",
+      "startMs": 32143,
+      "endMs": 34286,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "打工的牛马啊",
+      "bar": 16,
+      "section": "chorus",
+      "startMs": 34286,
+      "endMs": 36429,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "门又远了一截",
+      "bar": 17,
+      "section": "chorus",
+      "startMs": 36429,
+      "endMs": 38571,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "刚把今天装订好",
+      "bar": 18,
+      "section": "chorus",
+      "startMs": 38571,
+      "endMs": 40714,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "明天又翻页",
+      "bar": 19,
+      "section": "chorus",
+      "startMs": 40714,
+      "endMs": 42857,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "打工的牛马啊",
+      "bar": 20,
+      "section": "chorus",
+      "startMs": 42857,
+      "endMs": 45000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "别把自己折叠",
+      "bar": 21,
+      "section": "chorus",
+      "startMs": 45000,
+      "endMs": 47143,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "给我留一寸晚风",
+      "bar": 22,
+      "section": "chorus",
+      "startMs": 47143,
+      "endMs": 49286,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "吹过这条街",
+      "bar": 23,
+      "section": "chorus",
+      "startMs": 49286,
+      "endMs": 51429,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "午饭等到凉了",
+      "bar": 24,
+      "section": "verse2",
+      "startMs": 51429,
+      "endMs": 53571,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "会议还没有散",
+      "bar": 25,
+      "section": "verse2",
+      "startMs": 53571,
+      "endMs": 55714,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "把没说完的话",
+      "bar": 26,
+      "section": "verse2",
+      "startMs": 55714,
+      "endMs": 57857,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "折成一只纸船",
+      "bar": 27,
+      "section": "verse2",
+      "startMs": 57857,
+      "endMs": 60000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "牛把纸角压平",
+      "bar": 28,
+      "section": "verse2",
+      "startMs": 60000,
+      "endMs": 62143,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "马把云影收藏",
+      "bar": 29,
+      "section": "verse2",
+      "startMs": 62143,
+      "endMs": 64286,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "小小一张空白",
+      "bar": 30,
+      "section": "verse2",
+      "startMs": 64286,
+      "endMs": 66429,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "还没写上加班",
+      "bar": 31,
+      "section": "verse2",
+      "startMs": 66429,
+      "endMs": 68571,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "机器忽然停了",
+      "bar": 32,
+      "section": "bridge",
+      "startMs": 68571,
+      "endMs": 70714,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "我们也停一停",
+      "bar": 33,
+      "section": "bridge",
+      "startMs": 70714,
+      "endMs": 72857,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "听见肚子的鼓",
+      "bar": 34,
+      "section": "bridge",
+      "startMs": 72857,
+      "endMs": 75000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "比那闹钟好听",
+      "bar": 35,
+      "section": "bridge",
+      "startMs": 75000,
+      "endMs": 77143,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "谁说每一寸纸",
+      "bar": 36,
+      "section": "bridge",
+      "startMs": 77143,
+      "endMs": 79286,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "都要填得很满",
+      "bar": 37,
+      "section": "bridge",
+      "startMs": 79286,
+      "endMs": 81429,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "我把一口晚风",
+      "bar": 38,
+      "section": "bridge",
+      "startMs": 81429,
+      "endMs": 83571,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "留给身边伙伴",
+      "bar": 39,
+      "section": "bridge",
+      "startMs": 83571,
+      "endMs": 85714,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "打工的牛马啊",
+      "bar": 40,
+      "section": "finalChorus",
+      "startMs": 85714,
+      "endMs": 87857,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "门又远了一截",
+      "bar": 41,
+      "section": "finalChorus",
+      "startMs": 87857,
+      "endMs": 90000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "刚把今天装订好",
+      "bar": 42,
+      "section": "finalChorus",
+      "startMs": 90000,
+      "endMs": 92143,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "明天又翻页",
+      "bar": 43,
+      "section": "finalChorus",
+      "startMs": 92143,
+      "endMs": 94286,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "打工的牛马啊",
+      "bar": 44,
+      "section": "finalChorus",
+      "startMs": 94286,
+      "endMs": 96429,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "别把自己折叠",
+      "bar": 45,
+      "section": "finalChorus",
+      "startMs": 96429,
+      "endMs": 98571,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "给我留一寸晚风",
+      "bar": 46,
+      "section": "finalChorus",
+      "startMs": 98571,
+      "endMs": 100714,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "吹过这条街",
+      "bar": 47,
+      "section": "finalChorus",
+      "startMs": 100714,
+      "endMs": 102857,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "下班还有几厘米",
+      "bar": 48,
+      "section": "ending",
+      "startMs": 102857,
+      "endMs": 105000,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "先把肩膀放下来",
+      "bar": 49,
+      "section": "ending",
+      "startMs": 105000,
+      "endMs": 107143,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "路再长也有人等",
+      "bar": 50,
+      "section": "ending",
+      "startMs": 107143,
+      "endMs": 109286,
+      "timestampMs": null,
+      "confidence": null
+    },
+    {
+      "text": "一起坐着看云海",
+      "bar": 51,
+      "section": "ending",
+      "startMs": 109286,
+      "endMs": 111429,
+      "timestampMs": null,
+      "confidence": null
+    }
+  ],
+  "notes": [
+    {
+      "midi": 57,
+      "startBeat": 16,
+      "durationBeats": 0.5,
+      "lyric": "闹",
+      "pinyin": "nao4"
+    },
+    {
+      "midi": 60,
+      "startBeat": 16.5,
+      "durationBeats": 0.5,
+      "lyric": "钟",
+      "pinyin": "zhong1"
+    },
+    {
+      "midi": 60,
+      "startBeat": 17.0,
+      "durationBeats": 0.5,
+      "lyric": "先",
+      "pinyin": "xian1"
+    },
+    {
+      "midi": 62,
+      "startBeat": 17.5,
+      "durationBeats": 0.5,
+      "lyric": "打",
+      "pinyin": "da3"
+    },
+    {
+      "midi": 60,
+      "startBeat": 18.0,
+      "durationBeats": 0.75,
+      "lyric": "了",
+      "pinyin": "le5"
+    },
+    {
+      "midi": 57,
+      "startBeat": 18.75,
+      "durationBeats": 1.25,
+      "lyric": "卡",
+      "pinyin": "ka3"
+    },
+    {
+      "midi": 59,
+      "startBeat": 20,
+      "durationBeats": 0.5,
+      "lyric": "我",
+      "pinyin": "wo3"
+    },
+    {
+      "midi": 59,
+      "startBeat": 20.5,
+      "durationBeats": 0.5,
+      "lyric": "还",
+      "pinyin": "hai2"
+    },
+    {
+      "midi": 62,
+      "startBeat": 21.0,
+      "durationBeats": 0.5,
+      "lyric": "没",
+      "pinyin": "mei2"
+    },
+    {
+      "midi": 64,
+      "startBeat": 21.5,
+      "durationBeats": 0.5,
+      "lyric": "醒",
+      "pinyin": "xing3"
+    },
+    {
+      "midi": 62,
+      "startBeat": 22.0,
+      "durationBeats": 0.75,
+      "lyric": "过",
+      "pinyin": "guo4"
+    },
+    {
+      "midi": 59,
+      "startBeat": 22.75,
+      "durationBeats": 1.25,
+      "lyric": "来",
+      "pinyin": "lai2"
+    },
+    {
+      "midi": 60,
+      "startBeat": 24,
+      "durationBeats": 0.5,
+      "lyric": "领",
+      "pinyin": "ling3"
+    },
+    {
+      "midi": 60,
+      "startBeat": 24.5,
+      "durationBeats": 0.5,
+      "lyric": "带",
+      "pinyin": "dai4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 25.0,
+      "durationBeats": 0.5,
+      "lyric": "拴",
+      "pinyin": "shuan1"
+    },
+    {
+      "midi": 65,
+      "startBeat": 25.5,
+      "durationBeats": 0.5,
+      "lyric": "住",
+      "pinyin": "zhu4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 26.0,
+      "durationBeats": 0.75,
+      "lyric": "哈",
+      "pinyin": "ha1"
+    },
+    {
+      "midi": 60,
+      "startBeat": 26.75,
+      "durationBeats": 1.25,
+      "lyric": "欠",
+      "pinyin": "qian4"
+    },
+    {
+      "midi": 62,
+      "startBeat": 28,
+      "durationBeats": 0.5,
+      "lyric": "塞",
+      "pinyin": "sai1"
+    },
+    {
+      "midi": 60,
+      "startBeat": 28.5,
+      "durationBeats": 0.5,
+      "lyric": "进",
+      "pinyin": "jin4"
+    },
+    {
+      "midi": 59,
+      "startBeat": 29.0,
+      "durationBeats": 0.5,
+      "lyric": "第",
+      "pinyin": "di4"
+    },
+    {
+      "midi": 57,
+      "startBeat": 29.5,
+      "durationBeats": 0.5,
+      "lyric": "一",
+      "pinyin": "yi1"
+    },
+    {
+      "midi": 59,
+      "startBeat": 30.0,
+      "durationBeats": 0.75,
+      "lyric": "班",
+      "pinyin": "ban1"
+    },
+    {
+      "midi": 60,
+      "startBeat": 30.75,
+      "durationBeats": 1.25,
+      "lyric": "车",
+      "pinyin": "che1"
+    },
+    {
+      "midi": 57,
+      "startBeat": 32,
+      "durationBeats": 0.5,
+      "lyric": "格",
+      "pinyin": "ge2"
+    },
+    {
+      "midi": 60,
+      "startBeat": 32.5,
+      "durationBeats": 0.5,
+      "lyric": "子",
+      "pinyin": "zi5"
+    },
+    {
+      "midi": 62,
+      "startBeat": 33.0,
+      "durationBeats": 0.5,
+      "lyric": "装",
+      "pinyin": "zhuang1"
+    },
+    {
+      "midi": 64,
+      "startBeat": 33.5,
+      "durationBeats": 0.5,
+      "lyric": "着",
+      "pinyin": "zhe5"
+    },
+    {
+      "midi": 62,
+      "startBeat": 34.0,
+      "durationBeats": 0.75,
+      "lyric": "早",
+      "pinyin": "zao3"
+    },
+    {
+      "midi": 60,
+      "startBeat": 34.75,
+      "durationBeats": 1.25,
+      "lyric": "晨",
+      "pinyin": "chen2"
+    },
+    {
+      "midi": 59,
+      "startBeat": 36,
+      "durationBeats": 0.5,
+      "lyric": "屏",
+      "pinyin": "ping2"
+    },
+    {
+      "midi": 62,
+      "startBeat": 36.5,
+      "durationBeats": 0.5,
+      "lyric": "幕",
+      "pinyin": "mu4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 37.0,
+      "durationBeats": 0.5,
+      "lyric": "养",
+      "pinyin": "yang3"
+    },
+    {
+      "midi": 67,
+      "startBeat": 37.5,
+      "durationBeats": 0.5,
+      "lyric": "着",
+      "pinyin": "zhe5"
+    },
+    {
+      "midi": 64,
+      "startBeat": 38.0,
+      "durationBeats": 0.75,
+      "lyric": "云",
+      "pinyin": "yun2"
+    },
+    {
+      "midi": 62,
+      "startBeat": 38.75,
+      "durationBeats": 1.25,
+      "lyric": "彩",
+      "pinyin": "cai3"
+    },
+    {
+      "midi": 60,
+      "startBeat": 40,
+      "durationBeats": 0.5,
+      "lyric": "刚",
+      "pinyin": "gang1"
+    },
+    {
+      "midi": 62,
+      "startBeat": 40.5,
+      "durationBeats": 0.5,
+      "lyric": "把",
+      "pinyin": "ba3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 41.0,
+      "durationBeats": 0.5,
+      "lyric": "一",
+      "pinyin": "yi2"
+    },
+    {
+      "midi": 65,
+      "startBeat": 41.5,
+      "durationBeats": 0.5,
+      "lyric": "句",
+      "pinyin": "ju4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 42.0,
+      "durationBeats": 0.75,
+      "lyric": "写",
+      "pinyin": "xie3"
+    },
+    {
+      "midi": 60,
+      "startBeat": 42.75,
+      "durationBeats": 1.25,
+      "lyric": "完",
+      "pinyin": "wan2"
+    },
+    {
+      "midi": 62,
+      "startBeat": 44,
+      "durationBeats": 0.5,
+      "lyric": "又",
+      "pinyin": "you4"
+    },
+    {
+      "midi": 60,
+      "startBeat": 44.5,
+      "durationBeats": 0.5,
+      "lyric": "来",
+      "pinyin": "lai2"
+    },
+    {
+      "midi": 59,
+      "startBeat": 45.0,
+      "durationBeats": 0.5,
+      "lyric": "三",
+      "pinyin": "san1"
+    },
+    {
+      "midi": 62,
+      "startBeat": 45.5,
+      "durationBeats": 0.5,
+      "lyric": "句",
+      "pinyin": "ju4"
+    },
+    {
+      "midi": 59,
+      "startBeat": 46.0,
+      "durationBeats": 0.75,
+      "lyric": "重",
+      "pinyin": "chong2"
+    },
+    {
+      "midi": 56,
+      "startBeat": 46.75,
+      "durationBeats": 1.25,
+      "lyric": "来",
+      "pinyin": "lai2"
+    },
+    {
+      "midi": 60,
+      "startBeat": 48,
+      "durationBeats": 0.5,
+      "lyric": "钟",
+      "pinyin": "zhong1"
+    },
+    {
+      "midi": 62,
+      "startBeat": 48.5,
+      "durationBeats": 0.5,
+      "lyric": "往",
+      "pinyin": "wang3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 49.0,
+      "durationBeats": 0.5,
+      "lyric": "前",
+      "pinyin": "qian2"
+    },
+    {
+      "midi": 65,
+      "startBeat": 49.5,
+      "durationBeats": 0.5,
+      "lyric": "走",
+      "pinyin": "zou3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 50.0,
+      "durationBeats": 0.75,
+      "lyric": "一",
+      "pinyin": "yi2"
+    },
+    {
+      "midi": 62,
+      "startBeat": 50.75,
+      "durationBeats": 1.25,
+      "lyric": "格",
+      "pinyin": "ge2"
+    },
+    {
+      "midi": 62,
+      "startBeat": 52,
+      "durationBeats": 0.5,
+      "lyric": "门",
+      "pinyin": "men2"
+    },
+    {
+      "midi": 64,
+      "startBeat": 52.5,
+      "durationBeats": 0.5,
+      "lyric": "往",
+      "pinyin": "wang3"
+    },
+    {
+      "midi": 65,
+      "startBeat": 53.0,
+      "durationBeats": 0.5,
+      "lyric": "后",
+      "pinyin": "hou4"
+    },
+    {
+      "midi": 67,
+      "startBeat": 53.5,
+      "durationBeats": 0.5,
+      "lyric": "退",
+      "pinyin": "tui4"
+    },
+    {
+      "midi": 65,
+      "startBeat": 54.0,
+      "durationBeats": 0.75,
+      "lyric": "一",
+      "pinyin": "yi4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 54.75,
+      "durationBeats": 1.25,
+      "lyric": "排",
+      "pinyin": "pai2"
+    },
+    {
+      "midi": 64,
+      "startBeat": 56,
+      "durationBeats": 0.5,
+      "lyric": "工",
+      "pinyin": "gong1"
+    },
+    {
+      "midi": 65,
+      "startBeat": 56.5,
+      "durationBeats": 0.5,
+      "lyric": "牌",
+      "pinyin": "pai2"
+    },
+    {
+      "midi": 67,
+      "startBeat": 57.0,
+      "durationBeats": 0.5,
+      "lyric": "晃",
+      "pinyin": "huang4"
+    },
+    {
+      "midi": 69,
+      "startBeat": 57.5,
+      "durationBeats": 0.5,
+      "lyric": "来",
+      "pinyin": "lai2"
+    },
+    {
+      "midi": 67,
+      "startBeat": 58.0,
+      "durationBeats": 0.5,
+      "lyric": "又",
+      "pinyin": "you4"
+    },
+    {
+      "midi": 65,
+      "startBeat": 58.5,
+      "durationBeats": 0.5,
+      "lyric": "晃",
+      "pinyin": "huang4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 59.0,
+      "durationBeats": 1,
+      "lyric": "去",
+      "pinyin": "qu4"
+    },
+    {
+      "midi": 65,
+      "startBeat": 60,
+      "durationBeats": 0.5,
+      "lyric": "谁",
+      "pinyin": "shei2"
+    },
+    {
+      "midi": 64,
+      "startBeat": 60.5,
+      "durationBeats": 0.5,
+      "lyric": "把",
+      "pinyin": "ba3"
+    },
+    {
+      "midi": 62,
+      "startBeat": 61.0,
+      "durationBeats": 0.5,
+      "lyric": "路",
+      "pinyin": "lu4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 61.5,
+      "durationBeats": 0.5,
+      "lyric": "接",
+      "pinyin": "jie1"
+    },
+    {
+      "midi": 67,
+      "startBeat": 62.0,
+      "durationBeats": 0.75,
+      "lyric": "起",
+      "pinyin": "qi3"
+    },
+    {
+      "midi": 68,
+      "startBeat": 62.75,
+      "durationBeats": 1.25,
+      "lyric": "来",
+      "pinyin": "lai2"
+    },
+    {
+      "midi": 64,
+      "startBeat": 64,
+      "durationBeats": 0.5,
+      "lyric": "打",
+      "pinyin": "da3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 64.5,
+      "durationBeats": 0.5,
+      "lyric": "工",
+      "pinyin": "gong1"
+    },
+    {
+      "midi": 67,
+      "startBeat": 65.0,
+      "durationBeats": 0.5,
+      "lyric": "的",
+      "pinyin": "de5"
+    },
+    {
+      "midi": 69,
+      "startBeat": 65.5,
+      "durationBeats": 0.5,
+      "lyric": "牛",
+      "pinyin": "niu2"
+    },
+    {
+      "midi": 67,
+      "startBeat": 66.0,
+      "durationBeats": 0.75,
+      "lyric": "马",
+      "pinyin": "ma3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 66.75,
+      "durationBeats": 1.25,
+      "lyric": "啊",
+      "pinyin": "a5"
+    },
+    {
+      "midi": 60,
+      "startBeat": 68,
+      "durationBeats": 0.5,
+      "lyric": "门",
+      "pinyin": "men2"
+    },
+    {
+      "midi": 62,
+      "startBeat": 68.5,
+      "durationBeats": 0.5,
+      "lyric": "又",
+      "pinyin": "you4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 69.0,
+      "durationBeats": 0.5,
+      "lyric": "远",
+      "pinyin": "yuan3"
+    },
+    {
+      "midi": 67,
+      "startBeat": 69.5,
+      "durationBeats": 0.5,
+      "lyric": "了",
+      "pinyin": "le5"
+    },
+    {
+      "midi": 64,
+      "startBeat": 70.0,
+      "durationBeats": 0.75,
+      "lyric": "一",
+      "pinyin": "yi4"
+    },
+    {
+      "midi": 62,
+      "startBeat": 70.75,
+      "durationBeats": 1.25,
+      "lyric": "截",
+      "pinyin": "jie2"
+    },
+    {
+      "midi": 64,
+      "startBeat": 72,
+      "durationBeats": 0.5,
+      "lyric": "刚",
+      "pinyin": "gang1"
+    },
+    {
+      "midi": 67,
+      "startBeat": 72.5,
+      "durationBeats": 0.5,
+      "lyric": "把",
+      "pinyin": "ba3"
+    },
+    {
+      "midi": 69,
+      "startBeat": 73.0,
+      "durationBeats": 0.5,
+      "lyric": "今",
+      "pinyin": "jin1"
+    },
+    {
+      "midi": 72,
+      "startBeat": 73.5,
+      "durationBeats": 0.5,
+      "lyric": "天",
+      "pinyin": "tian1"
+    },
+    {
+      "midi": 71,
+      "startBeat": 74.0,
+      "durationBeats": 0.5,
+      "lyric": "装",
+      "pinyin": "zhuang1"
+    },
+    {
+      "midi": 67,
+      "startBeat": 74.5,
+      "durationBeats": 0.5,
+      "lyric": "订",
+      "pinyin": "ding4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 75.0,
+      "durationBeats": 1,
+      "lyric": "好",
+      "pinyin": "hao3"
+    },
+    {
+      "midi": 65,
+      "startBeat": 76,
+      "durationBeats": 0.5,
+      "lyric": "明",
+      "pinyin": "ming2"
+    },
+    {
+      "midi": 64,
+      "startBeat": 76.5,
+      "durationBeats": 0.5,
+      "lyric": "天",
+      "pinyin": "tian1"
+    },
+    {
+      "midi": 62,
+      "startBeat": 77.0,
+      "durationBeats": 0.75,
+      "lyric": "又",
+      "pinyin": "you4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 77.75,
+      "durationBeats": 0.75,
+      "lyric": "翻",
+      "pinyin": "fan1"
+    },
+    {
+      "midi": 60,
+      "startBeat": 78.5,
+      "durationBeats": 1.5,
+      "lyric": "页",
+      "pinyin": "ye4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 80,
+      "durationBeats": 0.5,
+      "lyric": "打",
+      "pinyin": "da3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 80.5,
+      "durationBeats": 0.5,
+      "lyric": "工",
+      "pinyin": "gong1"
+    },
+    {
+      "midi": 67,
+      "startBeat": 81.0,
+      "durationBeats": 0.5,
+      "lyric": "的",
+      "pinyin": "de5"
+    },
+    {
+      "midi": 69,
+      "startBeat": 81.5,
+      "durationBeats": 0.5,
+      "lyric": "牛",
+      "pinyin": "niu2"
+    },
+    {
+      "midi": 72,
+      "startBeat": 82.0,
+      "durationBeats": 0.75,
+      "lyric": "马",
+      "pinyin": "ma3"
+    },
+    {
+      "midi": 69,
+      "startBeat": 82.75,
+      "durationBeats": 1.25,
+      "lyric": "啊",
+      "pinyin": "a5"
+    },
+    {
+      "midi": 67,
+      "startBeat": 84,
+      "durationBeats": 0.5,
+      "lyric": "别",
+      "pinyin": "bie2"
+    },
+    {
+      "midi": 65,
+      "startBeat": 84.5,
+      "durationBeats": 0.5,
+      "lyric": "把",
+      "pinyin": "ba3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 85.0,
+      "durationBeats": 0.5,
+      "lyric": "自",
+      "pinyin": "zi4"
+    },
+    {
+      "midi": 62,
+      "startBeat": 85.5,
+      "durationBeats": 0.5,
+      "lyric": "己",
+      "pinyin": "ji3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 86.0,
+      "durationBeats": 0.75,
+      "lyric": "折",
+      "pinyin": "zhe2"
+    },
+    {
+      "midi": 65,
+      "startBeat": 86.75,
+      "durationBeats": 1.25,
+      "lyric": "叠",
+      "pinyin": "die2"
+    },
+    {
+      "midi": 65,
+      "startBeat": 88,
+      "durationBeats": 0.5,
+      "lyric": "给",
+      "pinyin": "gei3"
+    },
+    {
+      "midi": 67,
+      "startBeat": 88.5,
+      "durationBeats": 0.5,
+      "lyric": "我",
+      "pinyin": "wo3"
+    },
+    {
+      "midi": 69,
+      "startBeat": 89.0,
+      "durationBeats": 0.5,
+      "lyric": "留",
+      "pinyin": "liu2"
+    },
+    {
+      "midi": 72,
+      "startBeat": 89.5,
+      "durationBeats": 0.5,
+      "lyric": "一",
+      "pinyin": "yi2"
+    },
+    {
+      "midi": 71,
+      "startBeat": 90.0,
+      "durationBeats": 0.5,
+      "lyric": "寸",
+      "pinyin": "cun4"
+    },
+    {
+      "midi": 67,
+      "startBeat": 90.5,
+      "durationBeats": 0.5,
+      "lyric": "晚",
+      "pinyin": "wan3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 91.0,
+      "durationBeats": 1,
+      "lyric": "风",
+      "pinyin": "feng1"
+    },
+    {
+      "midi": 64,
+      "startBeat": 92,
+      "durationBeats": 0.5,
+      "lyric": "吹",
+      "pinyin": "chui1"
+    },
+    {
+      "midi": 62,
+      "startBeat": 92.5,
+      "durationBeats": 0.5,
+      "lyric": "过",
+      "pinyin": "guo4"
+    },
+    {
+      "midi": 60,
+      "startBeat": 93.0,
+      "durationBeats": 0.75,
+      "lyric": "这",
+      "pinyin": "zhe4"
+    },
+    {
+      "midi": 62,
+      "startBeat": 93.75,
+      "durationBeats": 0.75,
+      "lyric": "条",
+      "pinyin": "tiao2"
+    },
+    {
+      "midi": 69,
+      "startBeat": 94.5,
+      "durationBeats": 1.5,
+      "lyric": "街",
+      "pinyin": "jie1"
+    },
+    {
+      "midi": 60,
+      "startBeat": 96,
+      "durationBeats": 0.5,
+      "lyric": "午",
+      "pinyin": "wu3"
+    },
+    {
+      "midi": 60,
+      "startBeat": 96.5,
+      "durationBeats": 0.5,
+      "lyric": "饭",
+      "pinyin": "fan4"
+    },
+    {
+      "midi": 62,
+      "startBeat": 97.0,
+      "durationBeats": 0.5,
+      "lyric": "等",
+      "pinyin": "deng3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 97.5,
+      "durationBeats": 0.5,
+      "lyric": "到",
+      "pinyin": "dao4"
+    },
+    {
+      "midi": 62,
+      "startBeat": 98.0,
+      "durationBeats": 0.75,
+      "lyric": "凉",
+      "pinyin": "liang2"
+    },
+    {
+      "midi": 60,
+      "startBeat": 98.75,
+      "durationBeats": 1.25,
+      "lyric": "了",
+      "pinyin": "le5"
+    },
+    {
+      "midi": 62,
+      "startBeat": 100,
+      "durationBeats": 0.5,
+      "lyric": "会",
+      "pinyin": "hui4"
+    },
+    {
+      "midi": 62,
+      "startBeat": 100.5,
+      "durationBeats": 0.5,
+      "lyric": "议",
+      "pinyin": "yi4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 101.0,
+      "durationBeats": 0.5,
+      "lyric": "还",
+      "pinyin": "hai2"
+    },
+    {
+      "midi": 67,
+      "startBeat": 101.5,
+      "durationBeats": 0.5,
+      "lyric": "没",
+      "pinyin": "mei2"
+    },
+    {
+      "midi": 64,
+      "startBeat": 102.0,
+      "durationBeats": 0.75,
+      "lyric": "有",
+      "pinyin": "you3"
+    },
+    {
+      "midi": 62,
+      "startBeat": 102.75,
+      "durationBeats": 1.25,
+      "lyric": "散",
+      "pinyin": "san4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 104,
+      "durationBeats": 0.5,
+      "lyric": "把",
+      "pinyin": "ba3"
+    },
+    {
+      "midi": 62,
+      "startBeat": 104.5,
+      "durationBeats": 0.5,
+      "lyric": "没",
+      "pinyin": "mei2"
+    },
+    {
+      "midi": 60,
+      "startBeat": 105.0,
+      "durationBeats": 0.5,
+      "lyric": "说",
+      "pinyin": "shuo1"
+    },
+    {
+      "midi": 59,
+      "startBeat": 105.5,
+      "durationBeats": 0.5,
+      "lyric": "完",
+      "pinyin": "wan2"
+    },
+    {
+      "midi": 60,
+      "startBeat": 106.0,
+      "durationBeats": 0.75,
+      "lyric": "的",
+      "pinyin": "de5"
+    },
+    {
+      "midi": 62,
+      "startBeat": 106.75,
+      "durationBeats": 1.25,
+      "lyric": "话",
+      "pinyin": "hua4"
+    },
+    {
+      "midi": 60,
+      "startBeat": 108,
+      "durationBeats": 0.5,
+      "lyric": "折",
+      "pinyin": "zhe2"
+    },
+    {
+      "midi": 62,
+      "startBeat": 108.5,
+      "durationBeats": 0.5,
+      "lyric": "成",
+      "pinyin": "cheng2"
+    },
+    {
+      "midi": 64,
+      "startBeat": 109.0,
+      "durationBeats": 0.5,
+      "lyric": "一",
+      "pinyin": "yi4"
+    },
+    {
+      "midi": 67,
+      "startBeat": 109.5,
+      "durationBeats": 0.5,
+      "lyric": "只",
+      "pinyin": "zhi1"
+    },
+    {
+      "midi": 64,
+      "startBeat": 110.0,
+      "durationBeats": 0.75,
+      "lyric": "纸",
+      "pinyin": "zhi3"
+    },
+    {
+      "midi": 60,
+      "startBeat": 110.75,
+      "durationBeats": 1.25,
+      "lyric": "船",
+      "pinyin": "chuan2"
+    },
+    {
+      "midi": 60,
+      "startBeat": 112,
+      "durationBeats": 0.5,
+      "lyric": "牛",
+      "pinyin": "niu2"
+    },
+    {
+      "midi": 64,
+      "startBeat": 112.5,
+      "durationBeats": 0.5,
+      "lyric": "把",
+      "pinyin": "ba3"
+    },
+    {
+      "midi": 65,
+      "startBeat": 113.0,
+      "durationBeats": 0.5,
+      "lyric": "纸",
+      "pinyin": "zhi3"
+    },
+    {
+      "midi": 67,
+      "startBeat": 113.5,
+      "durationBeats": 0.5,
+      "lyric": "角",
+      "pinyin": "jiao3"
+    },
+    {
+      "midi": 65,
+      "startBeat": 114.0,
+      "durationBeats": 0.75,
+      "lyric": "压",
+      "pinyin": "ya1"
+    },
+    {
+      "midi": 64,
+      "startBeat": 114.75,
+      "durationBeats": 1.25,
+      "lyric": "平",
+      "pinyin": "ping2"
+    },
+    {
+      "midi": 62,
+      "startBeat": 116,
+      "durationBeats": 0.5,
+      "lyric": "马",
+      "pinyin": "ma3"
+    },
+    {
+      "midi": 65,
+      "startBeat": 116.5,
+      "durationBeats": 0.5,
+      "lyric": "把",
+      "pinyin": "ba3"
+    },
+    {
+      "midi": 67,
+      "startBeat": 117.0,
+      "durationBeats": 0.5,
+      "lyric": "云",
+      "pinyin": "yun2"
+    },
+    {
+      "midi": 69,
+      "startBeat": 117.5,
+      "durationBeats": 0.5,
+      "lyric": "影",
+      "pinyin": "ying3"
+    },
+    {
+      "midi": 67,
+      "startBeat": 118.0,
+      "durationBeats": 0.75,
+      "lyric": "收",
+      "pinyin": "shou1"
+    },
+    {
+      "midi": 65,
+      "startBeat": 118.75,
+      "durationBeats": 1.25,
+      "lyric": "藏",
+      "pinyin": "cang2"
+    },
+    {
+      "midi": 64,
+      "startBeat": 120,
+      "durationBeats": 0.5,
+      "lyric": "小",
+      "pinyin": "xiao3"
+    },
+    {
+      "midi": 65,
+      "startBeat": 120.5,
+      "durationBeats": 0.5,
+      "lyric": "小",
+      "pinyin": "xiao3"
+    },
+    {
+      "midi": 67,
+      "startBeat": 121.0,
+      "durationBeats": 0.5,
+      "lyric": "一",
+      "pinyin": "yi4"
+    },
+    {
+      "midi": 65,
+      "startBeat": 121.5,
+      "durationBeats": 0.5,
+      "lyric": "张",
+      "pinyin": "zhang1"
+    },
+    {
+      "midi": 64,
+      "startBeat": 122.0,
+      "durationBeats": 0.75,
+      "lyric": "空",
+      "pinyin": "kong4"
+    },
+    {
+      "midi": 62,
+      "startBeat": 122.75,
+      "durationBeats": 1.25,
+      "lyric": "白",
+      "pinyin": "bai2"
+    },
+    {
+      "midi": 62,
+      "startBeat": 124,
+      "durationBeats": 0.5,
+      "lyric": "还",
+      "pinyin": "hai2"
+    },
+    {
+      "midi": 60,
+      "startBeat": 124.5,
+      "durationBeats": 0.5,
+      "lyric": "没",
+      "pinyin": "mei2"
+    },
+    {
+      "midi": 59,
+      "startBeat": 125.0,
+      "durationBeats": 0.5,
+      "lyric": "写",
+      "pinyin": "xie3"
+    },
+    {
+      "midi": 60,
+      "startBeat": 125.5,
+      "durationBeats": 0.5,
+      "lyric": "上",
+      "pinyin": "shang4"
+    },
+    {
+      "midi": 62,
+      "startBeat": 126.0,
+      "durationBeats": 0.75,
+      "lyric": "加",
+      "pinyin": "jia1"
+    },
+    {
+      "midi": 64,
+      "startBeat": 126.75,
+      "durationBeats": 1.25,
+      "lyric": "班",
+      "pinyin": "ban1"
+    },
+    {
+      "midi": 65,
+      "startBeat": 128,
+      "durationBeats": 0.5,
+      "lyric": "机",
+      "pinyin": "ji1"
+    },
+    {
+      "midi": 64,
+      "startBeat": 128.5,
+      "durationBeats": 0.5,
+      "lyric": "器",
+      "pinyin": "qi4"
+    },
+    {
+      "midi": 60,
+      "startBeat": 129.0,
+      "durationBeats": 0.5,
+      "lyric": "忽",
+      "pinyin": "hu1"
+    },
+    {
+      "midi": 62,
+      "startBeat": 129.5,
+      "durationBeats": 0.5,
+      "lyric": "然",
+      "pinyin": "ran2"
+    },
+    {
+      "midi": 60,
+      "startBeat": 130.0,
+      "durationBeats": 0.75,
+      "lyric": "停",
+      "pinyin": "ting2"
+    },
+    {
+      "midi": 57,
+      "startBeat": 130.75,
+      "durationBeats": 1.25,
+      "lyric": "了",
+      "pinyin": "le5"
+    },
+    {
+      "midi": 60,
+      "startBeat": 132,
+      "durationBeats": 0.5,
+      "lyric": "我",
+      "pinyin": "wo3"
+    },
+    {
+      "midi": 60,
+      "startBeat": 132.5,
+      "durationBeats": 0.5,
+      "lyric": "们",
+      "pinyin": "men5"
+    },
+    {
+      "midi": 62,
+      "startBeat": 133.0,
+      "durationBeats": 0.5,
+      "lyric": "也",
+      "pinyin": "ye3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 133.5,
+      "durationBeats": 0.5,
+      "lyric": "停",
+      "pinyin": "ting2"
+    },
+    {
+      "midi": 62,
+      "startBeat": 134.0,
+      "durationBeats": 0.75,
+      "lyric": "一",
+      "pinyin": "yi4"
+    },
+    {
+      "midi": 60,
+      "startBeat": 134.75,
+      "durationBeats": 1.25,
+      "lyric": "停",
+      "pinyin": "ting2"
+    },
+    {
+      "midi": 62,
+      "startBeat": 136,
+      "durationBeats": 0.5,
+      "lyric": "听",
+      "pinyin": "ting1"
+    },
+    {
+      "midi": 65,
+      "startBeat": 136.5,
+      "durationBeats": 0.5,
+      "lyric": "见",
+      "pinyin": "jian4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 137.0,
+      "durationBeats": 0.5,
+      "lyric": "肚",
+      "pinyin": "du4"
+    },
+    {
+      "midi": 62,
+      "startBeat": 137.5,
+      "durationBeats": 0.5,
+      "lyric": "子",
+      "pinyin": "zi5"
+    },
+    {
+      "midi": 60,
+      "startBeat": 138.0,
+      "durationBeats": 0.75,
+      "lyric": "的",
+      "pinyin": "de5"
+    },
+    {
+      "midi": 62,
+      "startBeat": 138.75,
+      "durationBeats": 1.25,
+      "lyric": "鼓",
+      "pinyin": "gu3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 140,
+      "durationBeats": 0.5,
+      "lyric": "比",
+      "pinyin": "bi3"
+    },
+    {
+      "midi": 62,
+      "startBeat": 140.5,
+      "durationBeats": 0.5,
+      "lyric": "那",
+      "pinyin": "na4"
+    },
+    {
+      "midi": 60,
+      "startBeat": 141.0,
+      "durationBeats": 0.5,
+      "lyric": "闹",
+      "pinyin": "nao4"
+    },
+    {
+      "midi": 59,
+      "startBeat": 141.5,
+      "durationBeats": 0.5,
+      "lyric": "钟",
+      "pinyin": "zhong1"
+    },
+    {
+      "midi": 60,
+      "startBeat": 142.0,
+      "durationBeats": 0.75,
+      "lyric": "好",
+      "pinyin": "hao3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 142.75,
+      "durationBeats": 1.25,
+      "lyric": "听",
+      "pinyin": "ting1"
+    },
+    {
+      "midi": 65,
+      "startBeat": 144,
+      "durationBeats": 0.5,
+      "lyric": "谁",
+      "pinyin": "shei2"
+    },
+    {
+      "midi": 65,
+      "startBeat": 144.5,
+      "durationBeats": 0.5,
+      "lyric": "说",
+      "pinyin": "shuo1"
+    },
+    {
+      "midi": 67,
+      "startBeat": 145.0,
+      "durationBeats": 0.5,
+      "lyric": "每",
+      "pinyin": "mei3"
+    },
+    {
+      "midi": 69,
+      "startBeat": 145.5,
+      "durationBeats": 0.5,
+      "lyric": "一",
+      "pinyin": "yi2"
+    },
+    {
+      "midi": 67,
+      "startBeat": 146.0,
+      "durationBeats": 0.75,
+      "lyric": "寸",
+      "pinyin": "cun4"
+    },
+    {
+      "midi": 65,
+      "startBeat": 146.75,
+      "durationBeats": 1.25,
+      "lyric": "纸",
+      "pinyin": "zhi3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 148,
+      "durationBeats": 0.5,
+      "lyric": "都",
+      "pinyin": "dou1"
+    },
+    {
+      "midi": 64,
+      "startBeat": 148.5,
+      "durationBeats": 0.5,
+      "lyric": "要",
+      "pinyin": "yao4"
+    },
+    {
+      "midi": 67,
+      "startBeat": 149.0,
+      "durationBeats": 0.5,
+      "lyric": "填",
+      "pinyin": "tian2"
+    },
+    {
+      "midi": 69,
+      "startBeat": 149.5,
+      "durationBeats": 0.5,
+      "lyric": "得",
+      "pinyin": "de5"
+    },
+    {
+      "midi": 67,
+      "startBeat": 150.0,
+      "durationBeats": 0.75,
+      "lyric": "很",
+      "pinyin": "hen3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 150.75,
+      "durationBeats": 1.25,
+      "lyric": "满",
+      "pinyin": "man3"
+    },
+    {
+      "midi": 62,
+      "startBeat": 152,
+      "durationBeats": 0.5,
+      "lyric": "我",
+      "pinyin": "wo3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 152.5,
+      "durationBeats": 0.5,
+      "lyric": "把",
+      "pinyin": "ba3"
+    },
+    {
+      "midi": 65,
+      "startBeat": 153.0,
+      "durationBeats": 0.5,
+      "lyric": "一",
+      "pinyin": "yi4"
+    },
+    {
+      "midi": 67,
+      "startBeat": 153.5,
+      "durationBeats": 0.5,
+      "lyric": "口",
+      "pinyin": "kou3"
+    },
+    {
+      "midi": 65,
+      "startBeat": 154.0,
+      "durationBeats": 0.75,
+      "lyric": "晚",
+      "pinyin": "wan3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 154.75,
+      "durationBeats": 1.25,
+      "lyric": "风",
+      "pinyin": "feng1"
+    },
+    {
+      "midi": 65,
+      "startBeat": 156,
+      "durationBeats": 0.5,
+      "lyric": "留",
+      "pinyin": "liu2"
+    },
+    {
+      "midi": 64,
+      "startBeat": 156.5,
+      "durationBeats": 0.5,
+      "lyric": "给",
+      "pinyin": "gei3"
+    },
+    {
+      "midi": 62,
+      "startBeat": 157.0,
+      "durationBeats": 0.5,
+      "lyric": "身",
+      "pinyin": "shen1"
+    },
+    {
+      "midi": 64,
+      "startBeat": 157.5,
+      "durationBeats": 0.5,
+      "lyric": "边",
+      "pinyin": "bian1"
+    },
+    {
+      "midi": 67,
+      "startBeat": 158.0,
+      "durationBeats": 0.75,
+      "lyric": "伙",
+      "pinyin": "huo3"
+    },
+    {
+      "midi": 68,
+      "startBeat": 158.75,
+      "durationBeats": 1.25,
+      "lyric": "伴",
+      "pinyin": "ban4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 160,
+      "durationBeats": 0.5,
+      "lyric": "打",
+      "pinyin": "da3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 160.5,
+      "durationBeats": 0.5,
+      "lyric": "工",
+      "pinyin": "gong1"
+    },
+    {
+      "midi": 67,
+      "startBeat": 161.0,
+      "durationBeats": 0.5,
+      "lyric": "的",
+      "pinyin": "de5"
+    },
+    {
+      "midi": 69,
+      "startBeat": 161.5,
+      "durationBeats": 0.5,
+      "lyric": "牛",
+      "pinyin": "niu2"
+    },
+    {
+      "midi": 67,
+      "startBeat": 162.0,
+      "durationBeats": 0.75,
+      "lyric": "马",
+      "pinyin": "ma3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 162.75,
+      "durationBeats": 1.25,
+      "lyric": "啊",
+      "pinyin": "a5"
+    },
+    {
+      "midi": 60,
+      "startBeat": 164,
+      "durationBeats": 0.5,
+      "lyric": "门",
+      "pinyin": "men2"
+    },
+    {
+      "midi": 62,
+      "startBeat": 164.5,
+      "durationBeats": 0.5,
+      "lyric": "又",
+      "pinyin": "you4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 165.0,
+      "durationBeats": 0.5,
+      "lyric": "远",
+      "pinyin": "yuan3"
+    },
+    {
+      "midi": 67,
+      "startBeat": 165.5,
+      "durationBeats": 0.5,
+      "lyric": "了",
+      "pinyin": "le5"
+    },
+    {
+      "midi": 64,
+      "startBeat": 166.0,
+      "durationBeats": 0.75,
+      "lyric": "一",
+      "pinyin": "yi4"
+    },
+    {
+      "midi": 62,
+      "startBeat": 166.75,
+      "durationBeats": 1.25,
+      "lyric": "截",
+      "pinyin": "jie2"
+    },
+    {
+      "midi": 64,
+      "startBeat": 168,
+      "durationBeats": 0.5,
+      "lyric": "刚",
+      "pinyin": "gang1"
+    },
+    {
+      "midi": 67,
+      "startBeat": 168.5,
+      "durationBeats": 0.5,
+      "lyric": "把",
+      "pinyin": "ba3"
+    },
+    {
+      "midi": 69,
+      "startBeat": 169.0,
+      "durationBeats": 0.5,
+      "lyric": "今",
+      "pinyin": "jin1"
+    },
+    {
+      "midi": 72,
+      "startBeat": 169.5,
+      "durationBeats": 0.5,
+      "lyric": "天",
+      "pinyin": "tian1"
+    },
+    {
+      "midi": 71,
+      "startBeat": 170.0,
+      "durationBeats": 0.5,
+      "lyric": "装",
+      "pinyin": "zhuang1"
+    },
+    {
+      "midi": 67,
+      "startBeat": 170.5,
+      "durationBeats": 0.5,
+      "lyric": "订",
+      "pinyin": "ding4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 171.0,
+      "durationBeats": 1,
+      "lyric": "好",
+      "pinyin": "hao3"
+    },
+    {
+      "midi": 65,
+      "startBeat": 172,
+      "durationBeats": 0.5,
+      "lyric": "明",
+      "pinyin": "ming2"
+    },
+    {
+      "midi": 64,
+      "startBeat": 172.5,
+      "durationBeats": 0.5,
+      "lyric": "天",
+      "pinyin": "tian1"
+    },
+    {
+      "midi": 62,
+      "startBeat": 173.0,
+      "durationBeats": 0.75,
+      "lyric": "又",
+      "pinyin": "you4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 173.75,
+      "durationBeats": 0.75,
+      "lyric": "翻",
+      "pinyin": "fan1"
+    },
+    {
+      "midi": 60,
+      "startBeat": 174.5,
+      "durationBeats": 1.5,
+      "lyric": "页",
+      "pinyin": "ye4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 176,
+      "durationBeats": 0.5,
+      "lyric": "打",
+      "pinyin": "da3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 176.5,
+      "durationBeats": 0.5,
+      "lyric": "工",
+      "pinyin": "gong1"
+    },
+    {
+      "midi": 67,
+      "startBeat": 177.0,
+      "durationBeats": 0.5,
+      "lyric": "的",
+      "pinyin": "de5"
+    },
+    {
+      "midi": 69,
+      "startBeat": 177.5,
+      "durationBeats": 0.5,
+      "lyric": "牛",
+      "pinyin": "niu2"
+    },
+    {
+      "midi": 72,
+      "startBeat": 178.0,
+      "durationBeats": 0.75,
+      "lyric": "马",
+      "pinyin": "ma3"
+    },
+    {
+      "midi": 69,
+      "startBeat": 178.75,
+      "durationBeats": 1.25,
+      "lyric": "啊",
+      "pinyin": "a5"
+    },
+    {
+      "midi": 67,
+      "startBeat": 180,
+      "durationBeats": 0.5,
+      "lyric": "别",
+      "pinyin": "bie2"
+    },
+    {
+      "midi": 65,
+      "startBeat": 180.5,
+      "durationBeats": 0.5,
+      "lyric": "把",
+      "pinyin": "ba3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 181.0,
+      "durationBeats": 0.5,
+      "lyric": "自",
+      "pinyin": "zi4"
+    },
+    {
+      "midi": 62,
+      "startBeat": 181.5,
+      "durationBeats": 0.5,
+      "lyric": "己",
+      "pinyin": "ji3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 182.0,
+      "durationBeats": 0.75,
+      "lyric": "折",
+      "pinyin": "zhe2"
+    },
+    {
+      "midi": 65,
+      "startBeat": 182.75,
+      "durationBeats": 1.25,
+      "lyric": "叠",
+      "pinyin": "die2"
+    },
+    {
+      "midi": 65,
+      "startBeat": 184,
+      "durationBeats": 0.5,
+      "lyric": "给",
+      "pinyin": "gei3"
+    },
+    {
+      "midi": 67,
+      "startBeat": 184.5,
+      "durationBeats": 0.5,
+      "lyric": "我",
+      "pinyin": "wo3"
+    },
+    {
+      "midi": 69,
+      "startBeat": 185.0,
+      "durationBeats": 0.5,
+      "lyric": "留",
+      "pinyin": "liu2"
+    },
+    {
+      "midi": 72,
+      "startBeat": 185.5,
+      "durationBeats": 0.5,
+      "lyric": "一",
+      "pinyin": "yi2"
+    },
+    {
+      "midi": 71,
+      "startBeat": 186.0,
+      "durationBeats": 0.5,
+      "lyric": "寸",
+      "pinyin": "cun4"
+    },
+    {
+      "midi": 67,
+      "startBeat": 186.5,
+      "durationBeats": 0.5,
+      "lyric": "晚",
+      "pinyin": "wan3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 187.0,
+      "durationBeats": 1,
+      "lyric": "风",
+      "pinyin": "feng1"
+    },
+    {
+      "midi": 64,
+      "startBeat": 188,
+      "durationBeats": 0.5,
+      "lyric": "吹",
+      "pinyin": "chui1"
+    },
+    {
+      "midi": 62,
+      "startBeat": 188.5,
+      "durationBeats": 0.5,
+      "lyric": "过",
+      "pinyin": "guo4"
+    },
+    {
+      "midi": 60,
+      "startBeat": 189.0,
+      "durationBeats": 0.75,
+      "lyric": "这",
+      "pinyin": "zhe4"
+    },
+    {
+      "midi": 62,
+      "startBeat": 189.75,
+      "durationBeats": 0.75,
+      "lyric": "条",
+      "pinyin": "tiao2"
+    },
+    {
+      "midi": 69,
+      "startBeat": 190.5,
+      "durationBeats": 1.5,
+      "lyric": "街",
+      "pinyin": "jie1"
+    },
+    {
+      "midi": 64,
+      "startBeat": 192,
+      "durationBeats": 0.5,
+      "lyric": "下",
+      "pinyin": "xia4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 192.5,
+      "durationBeats": 0.5,
+      "lyric": "班",
+      "pinyin": "ban1"
+    },
+    {
+      "midi": 67,
+      "startBeat": 193.0,
+      "durationBeats": 0.5,
+      "lyric": "还",
+      "pinyin": "hai2"
+    },
+    {
+      "midi": 69,
+      "startBeat": 193.5,
+      "durationBeats": 0.5,
+      "lyric": "有",
+      "pinyin": "you3"
+    },
+    {
+      "midi": 67,
+      "startBeat": 194.0,
+      "durationBeats": 0.5,
+      "lyric": "几",
+      "pinyin": "ji3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 194.5,
+      "durationBeats": 0.5,
+      "lyric": "厘",
+      "pinyin": "li2"
+    },
+    {
+      "midi": 62,
+      "startBeat": 195.0,
+      "durationBeats": 1,
+      "lyric": "米",
+      "pinyin": "mi3"
+    },
+    {
+      "midi": 65,
+      "startBeat": 196,
+      "durationBeats": 0.5,
+      "lyric": "先",
+      "pinyin": "xian1"
+    },
+    {
+      "midi": 64,
+      "startBeat": 196.5,
+      "durationBeats": 0.5,
+      "lyric": "把",
+      "pinyin": "ba3"
+    },
+    {
+      "midi": 62,
+      "startBeat": 197.0,
+      "durationBeats": 0.5,
+      "lyric": "肩",
+      "pinyin": "jian1"
+    },
+    {
+      "midi": 64,
+      "startBeat": 197.5,
+      "durationBeats": 0.5,
+      "lyric": "膀",
+      "pinyin": "bang3"
+    },
+    {
+      "midi": 67,
+      "startBeat": 198.0,
+      "durationBeats": 0.5,
+      "lyric": "放",
+      "pinyin": "fang4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 198.5,
+      "durationBeats": 0.5,
+      "lyric": "下",
+      "pinyin": "xia4"
+    },
+    {
+      "midi": 60,
+      "startBeat": 199.0,
+      "durationBeats": 1,
+      "lyric": "来",
+      "pinyin": "lai2"
+    },
+    {
+      "midi": 60,
+      "startBeat": 200,
+      "durationBeats": 0.5,
+      "lyric": "路",
+      "pinyin": "lu4"
+    },
+    {
+      "midi": 62,
+      "startBeat": 200.5,
+      "durationBeats": 0.5,
+      "lyric": "再",
+      "pinyin": "zai4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 201.0,
+      "durationBeats": 0.5,
+      "lyric": "长",
+      "pinyin": "chang2"
+    },
+    {
+      "midi": 65,
+      "startBeat": 201.5,
+      "durationBeats": 0.5,
+      "lyric": "也",
+      "pinyin": "ye3"
+    },
+    {
+      "midi": 64,
+      "startBeat": 202.0,
+      "durationBeats": 0.5,
+      "lyric": "有",
+      "pinyin": "you3"
+    },
+    {
+      "midi": 62,
+      "startBeat": 202.5,
+      "durationBeats": 0.5,
+      "lyric": "人",
+      "pinyin": "ren2"
+    },
+    {
+      "midi": 60,
+      "startBeat": 203.0,
+      "durationBeats": 1,
+      "lyric": "等",
+      "pinyin": "deng3"
+    },
+    {
+      "midi": 62,
+      "startBeat": 204,
+      "durationBeats": 0.5,
+      "lyric": "一",
+      "pinyin": "yi4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 204.5,
+      "durationBeats": 0.5,
+      "lyric": "起",
+      "pinyin": "qi3"
+    },
+    {
+      "midi": 67,
+      "startBeat": 205.0,
+      "durationBeats": 0.5,
+      "lyric": "坐",
+      "pinyin": "zuo4"
+    },
+    {
+      "midi": 69,
+      "startBeat": 205.5,
+      "durationBeats": 0.5,
+      "lyric": "着",
+      "pinyin": "zhe5"
+    },
+    {
+      "midi": 67,
+      "startBeat": 206.0,
+      "durationBeats": 0.5,
+      "lyric": "看",
+      "pinyin": "kan4"
+    },
+    {
+      "midi": 64,
+      "startBeat": 206.5,
+      "durationBeats": 0.5,
+      "lyric": "云",
+      "pinyin": "yun2"
+    },
+    {
+      "midi": 57,
+      "startBeat": 207.0,
+      "durationBeats": 1,
+      "lyric": "海",
+      "pinyin": "hai3"
+    }
+  ],
+  "chordNamesByBar": [
+    "Am7",
+    "Fmaj7",
+    "Cmaj7",
+    "E7",
+    "Am7",
+    "Em7",
+    "Fmaj7",
+    "Cmaj7",
+    "Am7",
+    "Em7",
+    "Dm7",
+    "E7",
+    "Fmaj7",
+    "G",
+    "Dm7",
+    "E7",
+    "Am7",
+    "E7",
+    "Cmaj7",
+    "Fmaj7",
+    "Am7",
+    "Dm7",
+    "Fmaj7",
+    "Am7",
+    "Cmaj7",
+    "G",
+    "Em7",
+    "Am7",
+    "Fmaj7",
+    "Dm7",
+    "G",
+    "E7",
+    "Fmaj7",
+    "Cmaj7",
+    "Dm7",
+    "Am7",
+    "Fmaj7",
+    "Cmaj7",
+    "Dm7",
+    "E7",
+    "Am7",
+    "E7",
+    "Cmaj7",
+    "Fmaj7",
+    "Am7",
+    "Dm7",
+    "Fmaj7",
+    "Am7",
+    "Am7",
+    "Fmaj7",
+    "Dm7",
+    "Am7",
+    "Fmaj7",
+    "Cmaj7",
+    "E7",
+    "Am7"
+  ],
+  "provenance": "Lyrics, note events, arrangement and oscillator synthesis authored for this project. No reference songs, samples, soundfonts, downloaded models or singer recordings. The separate optional guide uses eSpeak NG formant synthesis and is a mechanical electronic voice, not a natural singer. Independent creation is not a guarantee against coincidental similarity."
+}

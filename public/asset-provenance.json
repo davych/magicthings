@@ -1,0 +1,60 @@
+{
+  "project": "下班还有几厘米",
+  "durationSeconds": 120,
+  "paidServicesUsed": false,
+  "originalArtwork": {
+    "files": [
+      "src/MV/Characters.tsx",
+      "src/MV/World.tsx",
+      "src/MV/OffWorkMV.tsx"
+    ],
+    "method": "SVG geometry and frame-based animation authored for this project; no stock imagery, templates, icon packs, or reference IP used."
+  },
+  "originalMusic": {
+    "score": "audio/song-score.json",
+    "source": "scripts/compose-music.py",
+    "method": "Independently authored lyrics and MIDI note events; oscillators, envelopes and seeded noise; no prerecorded songs, samples, soundfonts or music models."
+  },
+  "optionalGuideVocal": {
+    "file": "audio/guide-vocal.wav",
+    "engine": "eSpeak NG, cmn-latn-pinyin, locally installed",
+    "type": "Mechanical electronic singing guide, not a natural human singer or a clone",
+    "softwareLicense": "GPL-3.0-or-later",
+    "sources": [
+      "https://github.com/espeak-ng/espeak-ng",
+      "https://www.gnu.org/licenses/gpl-faq.html#WhatCaseIsOutputGPL"
+    ],
+    "method": "Formant-synthesized phonemes scheduled to original notes; local pitch and duration processing using ffmpeg.",
+    "status": "Archived mechanical guide; not mounted in the default MV."
+  },
+  "font": {
+    "file": "fonts/NotoSansSC.ttf",
+    "name": "Noto Sans SC",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosanssc",
+    "license": "SIL Open Font License 1.1",
+    "licenseFile": "fonts/OFL.txt",
+    "sha256": "a3041811a78c361b1de50f953c805e0244951c21c5bd412f7232ef0d899af0da"
+  },
+  "scope": "Independent creation records document the process; they do not establish absence of coincidental similarity or replace legal clearance. Font and software dependencies are third-party licensed tools, not original assets.",
+  "singingVoice": {
+    "file": "audio/qixuan-vocal.wav",
+    "voicebank": "绮萱 Qixuan v2.7.0",
+    "engine": "DiffSinger, ONNX Runtime CPU",
+    "vocoder": "OpenVPI PC-NSF-HiFiGAN 2025.02",
+    "method": "Authorized original ONNX models; predicted duration, expressive pitch, breathiness and voicing; 64 acoustic steps. No weight conversion, retraining or celebrity voice cloning.",
+    "credit": "AI 合成歌声：绮萱 · DiffSinger",
+    "licenseEvidence": "licenses/singing-license-sources.json",
+    "source": "scripts/render-qixuan.py",
+    "qc": "audio/qixuan-vocal.json",
+    "cost": "Local inference; no paid generation service.",
+    "sha256": "32d1a4fd14b50739e201883283176a456e43987d8b656ce19b3dff023c5180a2",
+    "copyrightBoundary": "The singing voice uses a licensed third-party voicebank; only lyrics, melody and arrangement are original to this project. Voicebank character artwork and weights are not included in the MV or redistributed.",
+    "localModels": {
+      "voicebank": "models/Qixuan_v2.7.0/Qixuan_v2.7.0_DiffSinger_OpenUtau",
+      "vocoder": "models/pc_nsf_hifigan_44.1k_hop512_128bin_2025.02/pc_nsf_hifigan_44.1k_hop512_128bin_2025.02.onnx",
+      "distribution": "Local only; models/ excluded from Git.",
+      "pythonEnvironment": ".venv-audio",
+      "dependencies": "requirements-audio.txt"
+    }
+  }
+}

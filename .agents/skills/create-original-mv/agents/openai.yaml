@@ -1,0 +1,4 @@
+interface:
+  display_name: "原创动画 MV"
+  short_description: "在本仓库制作原创二维动画、电子伴奏与免费授权中文演唱"
+  default_prompt: "使用 $create-original-mv 在当前仓库按我的主题制作原创动画 MV，并使用已核实授权的中文歌唱声库。"

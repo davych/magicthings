@@ -1,0 +1,64 @@
+{
+  "purpose": "License evidence for local Qixuan DiffSinger singing inference and this original MV. Weights and character artwork are not redistributed.",
+  "voicebank": {
+    "name": "绮萱",
+    "version": "2.7.0",
+    "officialRelease": "https://github.com/yqzhishen/qixuan-diffsinger/releases/tag/v2.7.0",
+    "voicebankArchiveBytes": 420707627,
+    "terms": "Qixuan-2.7.0-Terms.zh-CN.md",
+    "outputUse": "Commercial and non-commercial music or voice works are allowed, including monetization, subject to the official terms.",
+    "requiredPublishedCredit": "AI 合成歌声：绮萱 · DiffSinger",
+    "restrictionsRelevantToThisMV": [
+      "Keep AI synthesis notice conspicuous when publicly publishing.",
+      "Do not credit the generated voice under a different voicebank name.",
+      "Do not convert, modify, merge, distill or fine-tune the model weights.",
+      "Voicebank character artwork is separately restricted; it is not used in this MV.",
+      "Do not use generated voice output as voice-synthesis or voice-conversion training data."
+    ]
+  },
+  "vocoder": {
+    "name": "OpenVPI PC-NSF-HiFiGAN 2025.02",
+    "archiveBytes": 52760610,
+    "officialPage": "https://openvpi.github.io/vocoders/",
+    "modelLicense": "CC BY-NC-SA 4.0",
+    "commercialOutputClarification": "The official page explicitly states that synthesizing or producing commercial work with this vocoder is not constrained by that license.",
+    "sourceRecord": "OpenVPI-Vocoders-Usage.md",
+    "distribution": "Model weights remain outside the public project; only generated audio is delivered."
+  },
+  "engine": {
+    "name": "DiffSinger",
+    "codeLicense": "Apache-2.0",
+    "note": "This code license does not replace the voicebank and vocoder weight terms."
+  },
+  "records": [
+    {
+      "file": "Qixuan-2.7.0-Terms.zh-CN.md",
+      "source": "https://raw.githubusercontent.com/yqzhishen/qixuan-diffsinger/main/terms_of_use/Terms_of_Use.zh-CN.md",
+      "sha256": "f0e6626dff76a94bbe795dbe1055a4871dd21f5b8a298293b4e3219bc53a3cf4",
+      "bytes": 8707,
+      "savedOn": "2026-11-06"
+    },
+    {
+      "file": "OpenVPI-Vocoders-Usage.md",
+      "source": "https://raw.githubusercontent.com/openvpi/vocoders/main/index.md",
+      "sha256": "e1783fc844c31f188cb4e80f1c3fe1c911deedfc8595a90cd963ccc58e530ea3",
+      "bytes": 10855,
+      "savedOn": "2026-11-06"
+    },
+    {
+      "file": "DiffSinger-Apache-2.0.txt",
+      "source": "https://raw.githubusercontent.com/openvpi/DiffSinger/main/LICENSE",
+      "sha256": "4e99b4693e8b8aa3f29ada6f80e62dba136958987a6d5eea9ecc2451528d4f83",
+      "bytes": 11342,
+      "savedOn": "2026-11-06"
+    },
+    {
+      "file": "OpenVPI-Vocoders-Site-AGPL-3.0.txt",
+      "source": "https://raw.githubusercontent.com/openvpi/vocoders/main/LICENSE",
+      "sha256": "8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef",
+      "bytes": 34523,
+      "savedOn": "2026-11-06"
+    }
+  ],
+  "scope": "These records document the published permissions checked for this use. They do not establish zero copyright risk or independently audit the licensors’ training-data provenance."
+}

@@ -2,12 +2,24 @@ import { Composition, Folder } from "remotion";
 import { HelloWorld } from "./HelloWorld";
 import { Logo } from "./HelloWorld/Logo";
 import { Title } from "./HelloWorld/Title";
+import { z } from "zod";
+import { OffWorkMV } from "./MV/OffWorkMV";
 
 // Each <Composition> is an entry in the sidebar!
 
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="OffWork"
+        component={OffWorkMV}
+        durationInFrames={3600}
+        fps={30}
+        width={1920}
+        height={1080}
+        schema={z.object({ showLyrics: z.boolean() })}
+        defaultProps={{ showLyrics: true }}
+      />
       <Folder name="Elements">
         <Composition
           id="Logo"
@@ -50,7 +62,6 @@ export const RemotionRoot: React.FC = () => {
           titleColor: "#000000",
         }}
       />
-
     </>
   );
 };

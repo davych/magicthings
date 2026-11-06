@@ -1,0 +1,19 @@
+{
+  "instrumental": {
+    "durationSeconds": 120.0,
+    "peak": 0.84,
+    "rms": 0.10686975109995625
+  },
+  "lyricLines": 48,
+  "lyricNotes": 293,
+  "guideVocal": {
+    "durationSeconds": 120.0,
+    "peak": 0.707,
+    "rms": 0.17546675048053817,
+    "method": "eSpeak NG formant synthesis; mechanical electronic singing guide, not a natural singer",
+    "licenseSources": [
+      "https://github.com/espeak-ng/espeak-ng",
+      "https://www.gnu.org/licenses/gpl-faq.html#WhatCaseIsOutputGPL"
+    ]
+  }
+}

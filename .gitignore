@@ -2,6 +2,15 @@ node_modules
 dist
 .DS_Store
 .env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+/.venv-audio/
+/.cache/
+
+# Licensed singing weights and complete vendor archives stay local.
+/models/
 
 # Ignore the output video from Git but not videos you import into src/.
 out
